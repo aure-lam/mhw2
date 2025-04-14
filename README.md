@@ -1,4 +1,4 @@
-# 🧪 Mini-Homework 2 - Web Programming
+# 🧪 Homework 2 - Web Programming
 
 
 
